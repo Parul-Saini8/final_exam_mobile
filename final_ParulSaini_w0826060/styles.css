@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #dfecf5; }
+    .navbar ul {
+      list-style: none; }
+      .navbar ul li {
+        padding: 10px; }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            margin: 20px auto;
+            width: 70%;
+        }
+        h3 {
+            font-size: 2em;
+            font-family: 'Work Sans', sans-serif;
+            color: rgb(234, 151, 87);
+            text-align: center;
+            margin: 15px 10px;
+        }
